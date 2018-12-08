@@ -3336,25 +3336,8 @@
 
   Output:Meter,InteriorEquipment:Electricity,monthly;
 
-  Output:Meter,ExteriorEquipment:Electricity,monthly;
-
   Output:Meter,Fans:Electricity,monthly;
-
-  Output:Meter,Pumps:Electricity,monthly;
-
-  Output:Meter,HeatRejection:Electricity,monthly;
-
-  Output:Meter,Humidifier:Electricity,monthly;
-
-  Output:Meter,Refrigeration:Electricity,monthly;
-
-  Output:Meter,WaterSystems:Electricity,monthly;
 
   Output:Meter,Gas:Facility,monthly;
 
   Output:Meter,Heating:Gas,monthly;
-
-  Output:Meter,InteriorEquipment:Gas,monthly;
-
-  Output:Meter,WaterSystems:Gas,monthly;
-
